@@ -1,0 +1,22 @@
+
+{
+  "bin": {
+    "your-command-here": "./index.js"
+  },
+  "name": "toddpeltzer-resume",
+  "version": "1.0.0",
+  "description": "test-resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ISC"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Todd Peltzer",
+  "license": "ISC"
+}

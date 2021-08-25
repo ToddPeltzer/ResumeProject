@@ -1,0 +1,24 @@
+{
+    "name": "Todd Peltzer",
+    "website": "Coming Soon...",
+    "linkedin": "https://www.linkedin.com/in/todd-peltzer/",
+    "github": "tomatohammado",
+    "email": "hammad.malik@generalassemb.ly",
+    "resume": "Coming Soon...",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Python",
+        "Django",
+        "HTML",
+        "CSS"
+    ],
+    "otherSkills": [
+        "Microsoft Office Suite",
+        "Google G-Suite",
+        "Team Gantt"
+    ]
+}
